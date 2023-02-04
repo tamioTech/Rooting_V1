@@ -256,6 +256,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 939627614}
     m_Modifications:
+    - target: {fileID: 2268151374220533742, guid: 81085ed815222584c9c93aae09215866, type: 3}
+      propertyPath: rootTr
+      value: 
+      objectReference: {fileID: 939627614}
     - target: {fileID: 8977381105949064002, guid: 81085ed815222584c9c93aae09215866, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -338,6 +342,7 @@ MonoBehaviour:
   rootTip: {fileID: 1431460774}
   rootMid: {fileID: 7331142330259094219, guid: 2a0b45b150e3f4a4993c5990389e6d0c, type: 3}
   rootCreatorTr: {fileID: 939627614}
+  hasMoved: 0
 --- !u!4 &939627614
 Transform:
   m_ObjectHideFlags: 0
@@ -448,18 +453,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 8977381105949064002, guid: 81085ed815222584c9c93aae09215866, type: 3}
   m_PrefabInstance: {fileID: 846168447}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1431460779
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1431460774}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3b1fcae5ddf8240c28d99aeef221997d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1001 &1529937242
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -470,6 +463,10 @@ PrefabInstance:
     - target: {fileID: 281901674098837350, guid: bef719d74dff02c47bf0e603a1ef8d1b, type: 3}
       propertyPath: m_Name
       value: Bush
+      objectReference: {fileID: 0}
+    - target: {fileID: 281901674098837350, guid: bef719d74dff02c47bf0e603a1ef8d1b, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 622152850475032028, guid: bef719d74dff02c47bf0e603a1ef8d1b, type: 3}
       propertyPath: m_RootOrder
@@ -561,5 +558,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2e04ac461cf2f4b85b9dabaedb208a7b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ground: {fileID: 7724674151155329892, guid: 12469cf7cf67e42519421626384cf14c, type: 3}
-  rock: {fileID: 4742729251204497065, guid: c76ce1be368dd9b4588bc657847c51a9, type: 3}
+  ground: {fileID: 8939207074296036713, guid: 575039ba813fd49e88237861dbcf1077, type: 3}
+  rock: {fileID: 6967983531079991786, guid: 9ae9b967723c645a4970b3c236737427, type: 3}
+  mineral: {fileID: 3309402041719022662, guid: d652ee26c0d4d4c43884e94655cd0652, type: 3}

@@ -8,9 +8,12 @@ public class RootMove : MonoBehaviour
     [SerializeField] private GameObject rootMid;
     [SerializeField] private Transform rootCreatorTr;
 
+    Vector3 moveDir;
     bool movedToNewTile;
     bool validMove;
+    public bool hasMoved;
     string tipDir;
+    Vector3 lastPos;
 
     Animator animator;
 
@@ -25,40 +28,52 @@ public class RootMove : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.W))
         {
-            if (!validMove) { return; }
-            RotatePiece("up");
-            transform.position += new Vector3(0, 1f, 0);
-            
-            animator.SetTrigger("rootMove");
+            lastPos = rootCreatorTr.position;
+            print(lastPos);
 
-            //transform.Rotate(Vector3.right * 90f);
-            //Instantiate(rootMid, transform.position, Quaternion.identity);
+            moveDir = new Vector3(0, 1f, 0);
+            
+
+            RotatePiece("up");
+            transform.position += moveDir;
+
+            animator.SetTrigger("rootMove");
         }
+
+
         if (Input.GetKeyDown(KeyCode.A))
         {
-            //if (!validMove) { return; }
+            lastPos = rootCreatorTr.position;
+            moveDir = new Vector3(-1, 0, 0);
+
+            if (!validMove) { return; }
             RotatePiece("left");
-            transform.position += new Vector3(-1, 0, 0);
-            //tipDir = "left";
+
+            transform.position += moveDir;
             animator.SetTrigger("rootMove");
-            //Instantiate(rootMid, transform.position, Quaternion.EulerRotation(0,0,90f));
         }
         if (Input.GetKeyDown(KeyCode.S))
         {
+            lastPos = rootCreatorTr.position;
+            moveDir = new Vector3(0, -1, 0);
+
             if (!validMove) { return; }
+
             RotatePiece("down");
-            transform.position += new Vector3(0, -1, 0);
+            transform.position += moveDir;
             animator.SetTrigger("rootMove");
-            //Instantiate(rootMid, transform.position, Quaternion.identity);
         }
         if (Input.GetKeyDown(KeyCode.D))
         {
+            lastPos = rootCreatorTr.position;
+            moveDir = new Vector3(1, 0, 0);
+
             if (!validMove) { return; }
+
             RotatePiece("right");
-            transform.position += new Vector3(1, 0, 0);
+            transform.position += moveDir;
 
             animator.SetTrigger("rootMove");
-            //Instantiate(rootMid, transform.position, Quaternion.EulerRotation(0, 0, 90f));
         }
 
     }
@@ -82,11 +97,32 @@ public class RootMove : MonoBehaviour
         }
     }
 
+    public void MoveBack()
+    {
+        if (hasMoved) { return; }
+
+        rootCreatorTr.position += (moveDir * -1);
+        hasMoved = true;
+
+    }
+
     public void IsValidMove(bool isValid)
     {
         validMove = isValid;
     }
 
+    public bool GetIsValid()
+    {
+        return validMove;
+    }
 
+    public Vector3 GetMoveDir()
+    {
+        return moveDir;
+    }
 
+    public Vector3 GetLastPos()
+    {
+        return lastPos;
+    }
 }

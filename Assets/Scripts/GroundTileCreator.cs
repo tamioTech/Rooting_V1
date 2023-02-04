@@ -6,6 +6,7 @@ public class GroundTileCreator : MonoBehaviour
 {
     [SerializeField] private GameObject ground;
     [SerializeField] private GameObject rock;
+    [SerializeField] private GameObject mineral;
 
     private int groundWidthMax = 10;
     private int groundDepthMax = 30;
@@ -35,6 +36,7 @@ public class GroundTileCreator : MonoBehaviour
     private GameObject SelectDirtType()
     {
         int dirtType = Mathf.Abs(Random.Range(0, 10));
+        //print(dirtType);
         switch (dirtType)
         {
             case 0:
@@ -62,7 +64,7 @@ public class GroundTileCreator : MonoBehaviour
                 groundPiece = ground;
                 break;
             case 8:
-                groundPiece = ground;
+                groundPiece = mineral;
                 break;
             case 9:
                 groundPiece = rock;

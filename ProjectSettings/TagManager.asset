@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Dirt
   - Rock
+  - TileInFront
   layers:
   - Default
   - TransparentFX

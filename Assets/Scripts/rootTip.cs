@@ -4,21 +4,25 @@ using UnityEngine;
 
 public class rootTip : MonoBehaviour
 {
+    [SerializeField] private Transform rootTr;
 
-    private void OnCollisionEnter(Collision collision)
+    RootMove rootMove;
+
+
+    private void Start()
     {
-        // print(collision.gameObject.name);
-        print("collision");
+        rootMove = new RootMove();
     }
 
     private void OnTriggerEnter(Collider other)
     {
-        print("trigger: " + other.tag);
         if (other.tag == "Rock")
         {
-            FindObjectOfType<RootMove>().IsValidMove(false);
+            print(FindObjectOfType<RootMove>().GetLastPos());
+            rootTr.position = FindObjectOfType<RootMove>().GetLastPos();
             return;
         }
+
 
         Destroy(other.gameObject);
     }
