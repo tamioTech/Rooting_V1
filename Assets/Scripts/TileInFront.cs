@@ -4,12 +4,25 @@ using UnityEngine;
 
 public class TileInFront : MonoBehaviour
 {
+    [SerializeField] private Transform rootTr;
+    Vector3 offset;
+
+    private void Start()
+    {
+        offset = new Vector3(0, 0, -1.5f);
+    }
+
+    private void Update()
+    {
+        transform.position = rootTr.position;
+    }
+
+
     private void OnTriggerEnter(Collider other)
     {
-        print("tileInFront: " + other);
-        if (other.tag == "rock")
+        if (other.tag == "Rock")
         {
-            FindObjectOfType<RootMove>().validMove = false;
+            FindObjectOfType<RootMove>().IsValidMove(false);
         }
 
     }

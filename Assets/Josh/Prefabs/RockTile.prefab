@@ -39,6 +39,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5306327126594933839}
     m_Modifications:
+    - target: {fileID: 3679450320662853625, guid: c76ce1be368dd9b4588bc657847c51a9, type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4742729251204497065, guid: c76ce1be368dd9b4588bc657847c51a9, type: 3}
       propertyPath: m_Name
       value: Rock

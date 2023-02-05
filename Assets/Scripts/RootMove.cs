@@ -30,42 +30,54 @@ public class RootMove : MonoBehaviour
         {
             if (!validMove) { return; }
             lastPos = rootCreatorTr.position;
+
+            GameObject rootPiece = Instantiate(rootMid, lastPos, Quaternion.identity);
+
             moveDir = new Vector3(0, 1f, 0);
             RotatePiece("up");
             transform.position += moveDir;
-            animator.SetTrigger("rootMove");
+            //animator.SetTrigger("rootMove");
         }
 
 
         if (Input.GetKeyDown(KeyCode.A))
-        {
+        {   
+            if (!validMove) { return; }
             lastPos = rootCreatorTr.position;
+
+            Instantiate(rootMid, lastPos, Quaternion.EulerAngles(0,0,90));
+
             moveDir = new Vector3(-1, 0, 0);
 
             RotatePiece("left");
 
             transform.position += moveDir;
-            animator.SetTrigger("rootMove");
+           // animator.SetTrigger("rootMove");
         }
         if (Input.GetKeyDown(KeyCode.S))
         {
+            if (!validMove) { return; }
             lastPos = rootCreatorTr.position;
-            moveDir = new Vector3(0, -1, 0);
 
+            Instantiate(rootMid, lastPos, Quaternion.identity);
+
+            moveDir = new Vector3(0, -1, 0);
             RotatePiece("down");
             transform.position += moveDir;
-            animator.SetTrigger("rootMove");
+            //animator.SetTrigger("rootMove");
         }
         if (Input.GetKeyDown(KeyCode.D))
         {
+            if (!validMove) { return; }
             lastPos = rootCreatorTr.position;
+
+            Instantiate(rootMid, lastPos, Quaternion.identity);
+
             moveDir = new Vector3(1, 0, 0);
-
-
             RotatePiece("right");
             transform.position += moveDir;
 
-            animator.SetTrigger("rootMove");
+            //animator.SetTrigger("rootMove");
         }
 
     }
@@ -117,4 +129,6 @@ public class RootMove : MonoBehaviour
     {
         return lastPos;
     }
+
+
 }

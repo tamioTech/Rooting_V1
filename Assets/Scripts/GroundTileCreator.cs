@@ -7,6 +7,7 @@ public class GroundTileCreator : MonoBehaviour
     [SerializeField] private GameObject ground;
     [SerializeField] private GameObject rock;
     [SerializeField] private GameObject mineral;
+    [SerializeField] private GameObject water;
 
     private int groundWidthMax = 10;
     private int groundDepthMax = 30;
@@ -20,7 +21,7 @@ public class GroundTileCreator : MonoBehaviour
         {
             for (int y = 0; y < groundDepthMax; y++)
             {
-                float xDir = x;
+                float xDir = x; 
                 float yDir = y;
                 Vector3 dirtLocation = new Vector3(xDir, yDir, 0);
                 Instantiate(SelectDirtType(), dirtLocation, Quaternion.identity);
@@ -61,7 +62,7 @@ public class GroundTileCreator : MonoBehaviour
                 groundPiece = ground;
                 break;
             case 7:
-                groundPiece = ground;
+                groundPiece = water;
                 break;
             case 8:
                 groundPiece = mineral;

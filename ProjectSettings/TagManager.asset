@@ -8,6 +8,7 @@ TagManager:
   - Rock
   - TileInFront
   - Food
+  - Water
   layers:
   - Default
   - TransparentFX

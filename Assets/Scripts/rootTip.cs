@@ -18,7 +18,7 @@ public class rootTip : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-
+        print(other.tag);
         if (other.tag == "Rock")
         {
             rootTr.position = FindObjectOfType<RootMove>().GetLastPos();
@@ -26,7 +26,18 @@ public class rootTip : MonoBehaviour
         }
 
         Destroy(other.gameObject);
-        //animator.SetTrigger("tileDestroy");
+        switch (other.tag)
+        {
+            case "Dirt":
+                animator.SetTrigger("tileDestroy");
+                break;
+            case "Water":
+               
+                animator.SetTrigger("getWater");
+                print("getWater");
+                break;
+
+        }
 
     }
 }
