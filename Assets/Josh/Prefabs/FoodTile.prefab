@@ -87,6 +87,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TileNutrients01
       objectReference: {fileID: 0}
+    - target: {fileID: 6876686424399282870, guid: e41b54f9b00958f4e9214c2f53eed877, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e41b54f9b00958f4e9214c2f53eed877, type: 3}
 --- !u!4 &2727786233300615196 stripped

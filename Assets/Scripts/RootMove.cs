@@ -10,7 +10,7 @@ public class RootMove : MonoBehaviour
 
     Vector3 moveDir;
     bool movedToNewTile;
-    bool validMove;
+    public bool validMove;
     public bool hasMoved;
     string tipDir;
     Vector3 lastPos;
@@ -28,15 +28,11 @@ public class RootMove : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.W))
         {
+            if (!validMove) { return; }
             lastPos = rootCreatorTr.position;
-            print(lastPos);
-
             moveDir = new Vector3(0, 1f, 0);
-            
-
             RotatePiece("up");
             transform.position += moveDir;
-
             animator.SetTrigger("rootMove");
         }
 
@@ -46,7 +42,6 @@ public class RootMove : MonoBehaviour
             lastPos = rootCreatorTr.position;
             moveDir = new Vector3(-1, 0, 0);
 
-            if (!validMove) { return; }
             RotatePiece("left");
 
             transform.position += moveDir;
@@ -57,8 +52,6 @@ public class RootMove : MonoBehaviour
             lastPos = rootCreatorTr.position;
             moveDir = new Vector3(0, -1, 0);
 
-            if (!validMove) { return; }
-
             RotatePiece("down");
             transform.position += moveDir;
             animator.SetTrigger("rootMove");
@@ -68,7 +61,6 @@ public class RootMove : MonoBehaviour
             lastPos = rootCreatorTr.position;
             moveDir = new Vector3(1, 0, 0);
 
-            if (!validMove) { return; }
 
             RotatePiece("right");
             transform.position += moveDir;
