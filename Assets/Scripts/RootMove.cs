@@ -4,67 +4,58 @@ using UnityEngine;
 
 public class RootMove : MonoBehaviour
 {
-    [SerializeField] private GameObject rootTip;
-    [SerializeField] private GameObject rootMid;
-    [SerializeField] private Transform rootCreatorTr;
+    public GameObject rootTip;
+    public GameObject rootMid;
+    public Transform rootCreatorTr;
 
-    Vector3 moveDir;
-    bool movedToNewTile;
-    public bool validMove;
-    public bool hasMoved;
-    string tipDir;
-    Vector3 lastPos;
+    public Collider tileUp;
+    public Collider tileDown;
+    public Collider tileLeft;
+    public Collider tileRight;
 
     Animator animator;
 
-    private void Start()
+    private void Awake()
     {
         animator = GetComponentInChildren<Animator>();
-        movedToNewTile = false;
-        validMove = true;
     }
 
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.W))
-        {
-            if (!validMove) { return; }
-            lastPos = rootCreatorTr.position;
-            moveDir = new Vector3(0, 1f, 0);
+        if (Input.GetKeyDown(KeyCode.W)) {  // Up
+            
+            if (tileUp != null && tileUp.tag == "Rock")
+                return;
+
             RotatePiece("up");
-            transform.position += moveDir;
+            transform.position += new Vector3(0, 1, 0);
             animator.SetTrigger("rootMove");
         }
-
-
-        if (Input.GetKeyDown(KeyCode.A))
-        {
-            lastPos = rootCreatorTr.position;
-            moveDir = new Vector3(-1, 0, 0);
-
-            RotatePiece("left");
-
-            transform.position += moveDir;
-            animator.SetTrigger("rootMove");
-        }
-        if (Input.GetKeyDown(KeyCode.S))
-        {
-            lastPos = rootCreatorTr.position;
-            moveDir = new Vector3(0, -1, 0);
+        else if (Input.GetKeyDown(KeyCode.S)) {  // Down            
+            
+            if (tileDown != null && tileDown.tag == "Rock")
+                return;
 
             RotatePiece("down");
-            transform.position += moveDir;
+            transform.position += new Vector3(0, -1, 0);
             animator.SetTrigger("rootMove");
         }
-        if (Input.GetKeyDown(KeyCode.D))
-        {
-            lastPos = rootCreatorTr.position;
-            moveDir = new Vector3(1, 0, 0);
+        else if (Input.GetKeyDown(KeyCode.A)) {  // Left 
+            
+            if (tileLeft != null && tileLeft.tag == "Rock")
+                return;
 
+            RotatePiece("left");
+            transform.position += new Vector3(-1, 0, 0);
+            animator.SetTrigger("rootMove");
+        }
+        if (Input.GetKeyDown(KeyCode.D)) {  // Right
+            
+            if (tileRight != null && tileRight.tag == "Rock")
+                return;
 
             RotatePiece("right");
-            transform.position += moveDir;
-
+            transform.position += new Vector3(1, 0, 0);
             animator.SetTrigger("rootMove");
         }
 
@@ -75,46 +66,17 @@ public class RootMove : MonoBehaviour
         switch (tipDir)
         {
             case "left":
-                transform.rotation = Quaternion.Euler(0, 0, -90);
+                rootTip.transform.rotation = Quaternion.Euler(0, 0, -90);
                 break;
             case "right":
-                transform.rotation = Quaternion.Euler(0, 0, 90);
+                rootTip.transform.rotation = Quaternion.Euler(0, 0, 90);
                 break;
             case "up":
-                transform.rotation = Quaternion.Euler(0, 0, 180);
+                rootTip.transform.rotation = Quaternion.Euler(0, 0, 180);
                 break;
             case "down":
-                transform.rotation = Quaternion.Euler(0, 0, 0);
+                rootTip.transform.rotation = Quaternion.Euler(0, 0, 0);
                 break;
         }
-    }
-
-    public void MoveBack()
-    {
-        if (hasMoved) { return; }
-
-        rootCreatorTr.position += (moveDir * -1);
-        hasMoved = true;
-
-    }
-
-    public void IsValidMove(bool isValid)
-    {
-        validMove = isValid;
-    }
-
-    public bool GetIsValid()
-    {
-        return validMove;
-    }
-
-    public Vector3 GetMoveDir()
-    {
-        return moveDir;
-    }
-
-    public Vector3 GetLastPos()
-    {
-        return lastPos;
     }
 }
