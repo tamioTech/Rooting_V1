@@ -4,28 +4,25 @@ using UnityEngine;
 
 public class RootMove : MonoBehaviour
 {
-    [SerializeField] private GameObject rootTip;
-    [SerializeField] private GameObject rootMid;
-    [SerializeField] private Transform rootCreatorTr;
+    public GameObject rootTip;
+    public GameObject rootMid;
+    public Transform rootCreatorTr;
 
-    Vector3 moveDir;
-    bool movedToNewTile;
-    public bool validMove;
-    public bool hasMoved;
-    string tipDir;
-    Vector3 lastPos;
+    public Collider tileUp;
+    public Collider tileDown;
+    public Collider tileLeft;
+    public Collider tileRight;
 
     Animator animator;
 
-    private void Start()
+    private void Awake()
     {
         animator = GetComponentInChildren<Animator>();
-        movedToNewTile = false;
-        validMove = true;
     }
 
     private void Update()
     {
+<<<<<<< HEAD
         if (Input.GetKeyDown(KeyCode.W))
         {
             if (!validMove) { return; }
@@ -58,11 +55,27 @@ public class RootMove : MonoBehaviour
         {
             if (!validMove) { return; }
             lastPos = rootCreatorTr.position;
+=======
+        if (Input.GetKeyDown(KeyCode.W)) {  // Up
+            
+            if (tileUp != null && tileUp.tag == "Rock")
+                return;
+
+            RotatePiece("up");
+            transform.position += new Vector3(0, 1, 0);
+            animator.SetTrigger("rootMove");
+        }
+        else if (Input.GetKeyDown(KeyCode.S)) {  // Down            
+            
+            if (tileDown != null && tileDown.tag == "Rock")
+                return;
+>>>>>>> Josh
 
             Instantiate(rootMid, lastPos, Quaternion.identity);
 
             moveDir = new Vector3(0, -1, 0);
             RotatePiece("down");
+<<<<<<< HEAD
             transform.position += moveDir;
             //animator.SetTrigger("rootMove");
         }
@@ -78,6 +91,28 @@ public class RootMove : MonoBehaviour
             transform.position += moveDir;
 
             //animator.SetTrigger("rootMove");
+=======
+            transform.position += new Vector3(0, -1, 0);
+            animator.SetTrigger("rootMove");
+        }
+        else if (Input.GetKeyDown(KeyCode.A)) {  // Left 
+            
+            if (tileLeft != null && tileLeft.tag == "Rock")
+                return;
+
+            RotatePiece("left");
+            transform.position += new Vector3(-1, 0, 0);
+            animator.SetTrigger("rootMove");
+        }
+        if (Input.GetKeyDown(KeyCode.D)) {  // Right
+            
+            if (tileRight != null && tileRight.tag == "Rock")
+                return;
+
+            RotatePiece("right");
+            transform.position += new Vector3(1, 0, 0);
+            animator.SetTrigger("rootMove");
+>>>>>>> Josh
         }
 
     }
@@ -87,19 +122,20 @@ public class RootMove : MonoBehaviour
         switch (tipDir)
         {
             case "left":
-                transform.rotation = Quaternion.Euler(0, 0, -90);
+                rootTip.transform.rotation = Quaternion.Euler(0, 0, -90);
                 break;
             case "right":
-                transform.rotation = Quaternion.Euler(0, 0, 90);
+                rootTip.transform.rotation = Quaternion.Euler(0, 0, 90);
                 break;
             case "up":
-                transform.rotation = Quaternion.Euler(0, 0, 180);
+                rootTip.transform.rotation = Quaternion.Euler(0, 0, 180);
                 break;
             case "down":
-                transform.rotation = Quaternion.Euler(0, 0, 0);
+                rootTip.transform.rotation = Quaternion.Euler(0, 0, 0);
                 break;
         }
     }
+<<<<<<< HEAD
 
     public void MoveBack()
     {
@@ -131,4 +167,6 @@ public class RootMove : MonoBehaviour
     }
 
 
+=======
+>>>>>>> Josh
 }

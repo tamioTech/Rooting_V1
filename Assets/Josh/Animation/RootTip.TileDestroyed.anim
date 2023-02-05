@@ -38,7 +38,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: TileDestroyed01/Rock (3)
+    path: TileDestroyed/TileDestroyed01/Rock (3)
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -63,7 +63,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: TileDestroyed01/Rock (2)
+    path: TileDestroyed/TileDestroyed01/Rock (2)
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -88,7 +88,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: TileDestroyed01/Rock (1)
+    path: TileDestroyed/TileDestroyed01/Rock (1)
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -113,7 +113,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: TileDestroyed01/Rock
+    path: TileDestroyed/TileDestroyed01/Rock
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -138,7 +138,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: TileDestroyed02/Rock (3)
+    path: TileDestroyed/TileDestroyed02/Rock (3)
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -163,7 +163,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: TileDestroyed02/Rock (1)
+    path: TileDestroyed/TileDestroyed02/Rock (1)
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -188,7 +188,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: TileDestroyed02/Rock
+    path: TileDestroyed/TileDestroyed02/Rock
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -213,7 +213,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: TileDestroyed02/Rock (2)
+    path: TileDestroyed/TileDestroyed02/Rock (2)
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -238,7 +238,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: TileDestroyed03/Rock (1)
+    path: TileDestroyed/TileDestroyed03/Rock (1)
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -263,7 +263,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: TileDestroyed03/Rock (2)
+    path: TileDestroyed/TileDestroyed03/Rock (2)
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -288,7 +288,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: TileDestroyed03/Rock (3)
+    path: TileDestroyed/TileDestroyed03/Rock (3)
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -313,7 +313,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: TileDestroyed03/Rock
+    path: TileDestroyed/TileDestroyed03/Rock
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -338,7 +338,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: TileDestroyed04/Rock
+    path: TileDestroyed/TileDestroyed04/Rock
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -363,7 +363,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: TileDestroyed04/Rock (3)
+    path: TileDestroyed/TileDestroyed04/Rock (3)
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -388,7 +388,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: TileDestroyed04/Rock (2)
+    path: TileDestroyed/TileDestroyed04/Rock (2)
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -413,7 +413,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: TileDestroyed04/Rock (1)
+    path: TileDestroyed/TileDestroyed04/Rock (1)
   m_PositionCurves:
   - curve:
       serializedVersion: 2
@@ -448,7 +448,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: TileDestroyed01/Rock
+    path: TileDestroyed/TileDestroyed01/Rock
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -482,7 +482,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: TileDestroyed01/Rock (3)
+    path: TileDestroyed/TileDestroyed01/Rock (3)
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -516,7 +516,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: TileDestroyed01/Rock (2)
+    path: TileDestroyed/TileDestroyed01/Rock (2)
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -550,7 +550,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: TileDestroyed01/Rock (1)
+    path: TileDestroyed/TileDestroyed01/Rock (1)
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -584,7 +584,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: TileDestroyed02/Rock (3)
+    path: TileDestroyed/TileDestroyed02/Rock (3)
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -618,7 +618,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: TileDestroyed02/Rock (1)
+    path: TileDestroyed/TileDestroyed02/Rock (1)
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -652,7 +652,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: TileDestroyed02/Rock
+    path: TileDestroyed/TileDestroyed02/Rock
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -686,7 +686,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: TileDestroyed02/Rock (2)
+    path: TileDestroyed/TileDestroyed02/Rock (2)
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -720,7 +720,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: TileDestroyed03/Rock (1)
+    path: TileDestroyed/TileDestroyed03/Rock (1)
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -754,7 +754,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: TileDestroyed03/Rock (2)
+    path: TileDestroyed/TileDestroyed03/Rock (2)
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -788,7 +788,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: TileDestroyed03/Rock (3)
+    path: TileDestroyed/TileDestroyed03/Rock (3)
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -822,7 +822,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: TileDestroyed03/Rock
+    path: TileDestroyed/TileDestroyed03/Rock
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -856,7 +856,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: TileDestroyed04/Rock
+    path: TileDestroyed/TileDestroyed04/Rock
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -890,7 +890,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: TileDestroyed04/Rock (3)
+    path: TileDestroyed/TileDestroyed04/Rock (3)
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -924,7 +924,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: TileDestroyed04/Rock (2)
+    path: TileDestroyed/TileDestroyed04/Rock (2)
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -958,7 +958,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: TileDestroyed04/Rock (1)
+    path: TileDestroyed/TileDestroyed04/Rock (1)
   m_ScaleCurves:
   - curve:
       serializedVersion: 2
@@ -993,7 +993,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: TileDestroyed01/Rock (3)
+    path: TileDestroyed/TileDestroyed01/Rock (3)
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1027,7 +1027,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: TileDestroyed01/Rock (2)
+    path: TileDestroyed/TileDestroyed01/Rock (2)
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1061,7 +1061,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: TileDestroyed01/Rock (1)
+    path: TileDestroyed/TileDestroyed01/Rock (1)
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1095,7 +1095,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: TileDestroyed01/Rock
+    path: TileDestroyed/TileDestroyed01/Rock
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1129,7 +1129,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: TileDestroyed02/Rock (3)
+    path: TileDestroyed/TileDestroyed02/Rock (3)
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1163,7 +1163,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: TileDestroyed02/Rock (1)
+    path: TileDestroyed/TileDestroyed02/Rock (1)
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1197,7 +1197,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: TileDestroyed02/Rock
+    path: TileDestroyed/TileDestroyed02/Rock
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1231,7 +1231,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: TileDestroyed02/Rock (2)
+    path: TileDestroyed/TileDestroyed02/Rock (2)
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1265,7 +1265,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: TileDestroyed03/Rock (1)
+    path: TileDestroyed/TileDestroyed03/Rock (1)
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1299,7 +1299,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: TileDestroyed03/Rock (2)
+    path: TileDestroyed/TileDestroyed03/Rock (2)
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1333,7 +1333,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: TileDestroyed03/Rock (3)
+    path: TileDestroyed/TileDestroyed03/Rock (3)
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1367,7 +1367,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: TileDestroyed03/Rock
+    path: TileDestroyed/TileDestroyed03/Rock
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1401,7 +1401,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: TileDestroyed04/Rock
+    path: TileDestroyed/TileDestroyed04/Rock
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1435,7 +1435,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: TileDestroyed04/Rock (3)
+    path: TileDestroyed/TileDestroyed04/Rock (3)
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1469,7 +1469,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: TileDestroyed04/Rock (2)
+    path: TileDestroyed/TileDestroyed04/Rock (2)
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1503,8 +1503,36 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: TileDestroyed04/Rock (1)
-  m_FloatCurves: []
+    path: TileDestroyed/TileDestroyed04/Rock (1)
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 0.6666667
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: TileDestroyed
+    classID: 1
+    script: {fileID: 0}
   m_PPtrCurves: []
   m_SampleRate: 60
   m_WrapMode: 0
@@ -1514,339 +1542,346 @@ AnimationClip:
   m_ClipBindingConstant:
     genericBindings:
     - serializedVersion: 2
-      path: 3954838565
+      path: 688754815
       attribute: 1
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 3069526412
+      path: 950170685
       attribute: 1
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 2951639245
+      path: 565790076
       attribute: 1
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 2227381006
+      path: 177477311
       attribute: 1
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 1573059215
+      path: 3549810494
       attribute: 1
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 1878300685
+      path: 3785600444
       attribute: 1
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 1831763595
+      path: 2946097873
       attribute: 1
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 1155124174
+      path: 3398368895
       attribute: 1
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 2151084851
+      path: 241288834
       attribute: 1
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 2870714608
+      path: 625775937
       attribute: 1
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 2986381745
+      path: 1012376576
       attribute: 1
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 2792533294
+      path: 1690644852
       attribute: 1
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 3145178518
+      path: 2042626508
       attribute: 1
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 1356630728
+      path: 3733700473
       attribute: 1
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 1237826441
+      path: 3348139576
       attribute: 1
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 1659562058
+      path: 3971866107
       attribute: 1
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 3069526412
+      path: 950170685
       attribute: 4
       script: {fileID: 0}
       typeID: 4
       customType: 4
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 2951639245
+      path: 565790076
       attribute: 4
       script: {fileID: 0}
       typeID: 4
       customType: 4
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 2227381006
+      path: 177477311
       attribute: 4
       script: {fileID: 0}
       typeID: 4
       customType: 4
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 3954838565
+      path: 688754815
       attribute: 4
       script: {fileID: 0}
       typeID: 4
       customType: 4
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 1573059215
+      path: 3549810494
       attribute: 4
       script: {fileID: 0}
       typeID: 4
       customType: 4
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 1878300685
+      path: 3785600444
       attribute: 4
       script: {fileID: 0}
       typeID: 4
       customType: 4
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 1831763595
+      path: 2946097873
       attribute: 4
       script: {fileID: 0}
       typeID: 4
       customType: 4
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 1155124174
+      path: 3398368895
       attribute: 4
       script: {fileID: 0}
       typeID: 4
       customType: 4
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 2151084851
+      path: 241288834
       attribute: 4
       script: {fileID: 0}
       typeID: 4
       customType: 4
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 2870714608
+      path: 625775937
       attribute: 4
       script: {fileID: 0}
       typeID: 4
       customType: 4
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 2986381745
+      path: 1012376576
       attribute: 4
       script: {fileID: 0}
       typeID: 4
       customType: 4
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 2792533294
+      path: 1690644852
       attribute: 4
       script: {fileID: 0}
       typeID: 4
       customType: 4
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 3145178518
+      path: 2042626508
       attribute: 4
       script: {fileID: 0}
       typeID: 4
       customType: 4
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 1356630728
+      path: 3733700473
       attribute: 4
       script: {fileID: 0}
       typeID: 4
       customType: 4
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 1237826441
+      path: 3348139576
       attribute: 4
       script: {fileID: 0}
       typeID: 4
       customType: 4
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 1659562058
+      path: 3971866107
       attribute: 4
       script: {fileID: 0}
       typeID: 4
       customType: 4
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 3069526412
+      path: 950170685
       attribute: 3
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 2951639245
+      path: 565790076
       attribute: 3
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 2227381006
+      path: 177477311
       attribute: 3
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 3954838565
+      path: 688754815
       attribute: 3
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 1573059215
+      path: 3549810494
       attribute: 3
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 1878300685
+      path: 3785600444
       attribute: 3
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 1831763595
+      path: 2946097873
       attribute: 3
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 1155124174
+      path: 3398368895
       attribute: 3
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 2151084851
+      path: 241288834
       attribute: 3
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 2870714608
+      path: 625775937
       attribute: 3
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 2986381745
+      path: 1012376576
       attribute: 3
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 2792533294
+      path: 1690644852
       attribute: 3
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 3145178518
+      path: 2042626508
       attribute: 3
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 1356630728
+      path: 3733700473
       attribute: 3
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 1237826441
+      path: 3348139576
       attribute: 3
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 1659562058
+      path: 3971866107
       attribute: 3
       script: {fileID: 0}
       typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2715337220
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
       customType: 0
       isPPtrCurve: 0
     pptrCurveMapping: []
@@ -1905,7 +1940,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.x
-    path: TileDestroyed01/Rock
+    path: TileDestroyed/TileDestroyed01/Rock
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1942,7 +1977,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.y
-    path: TileDestroyed01/Rock
+    path: TileDestroyed/TileDestroyed01/Rock
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1979,7 +2014,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.z
-    path: TileDestroyed01/Rock
+    path: TileDestroyed/TileDestroyed01/Rock
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2016,7 +2051,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.x
-    path: TileDestroyed01/Rock (3)
+    path: TileDestroyed/TileDestroyed01/Rock (3)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2053,7 +2088,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.y
-    path: TileDestroyed01/Rock (3)
+    path: TileDestroyed/TileDestroyed01/Rock (3)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2090,7 +2125,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.z
-    path: TileDestroyed01/Rock (3)
+    path: TileDestroyed/TileDestroyed01/Rock (3)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2118,7 +2153,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: TileDestroyed01/Rock (3)
+    path: TileDestroyed/TileDestroyed01/Rock (3)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2146,7 +2181,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: TileDestroyed01/Rock (3)
+    path: TileDestroyed/TileDestroyed01/Rock (3)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2174,7 +2209,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: TileDestroyed01/Rock (3)
+    path: TileDestroyed/TileDestroyed01/Rock (3)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2211,7 +2246,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.x
-    path: TileDestroyed01/Rock (3)
+    path: TileDestroyed/TileDestroyed01/Rock (3)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2248,7 +2283,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.y
-    path: TileDestroyed01/Rock (3)
+    path: TileDestroyed/TileDestroyed01/Rock (3)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2285,7 +2320,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.z
-    path: TileDestroyed01/Rock (3)
+    path: TileDestroyed/TileDestroyed01/Rock (3)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2322,7 +2357,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.x
-    path: TileDestroyed01/Rock (2)
+    path: TileDestroyed/TileDestroyed01/Rock (2)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2359,7 +2394,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.y
-    path: TileDestroyed01/Rock (2)
+    path: TileDestroyed/TileDestroyed01/Rock (2)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2396,7 +2431,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.z
-    path: TileDestroyed01/Rock (2)
+    path: TileDestroyed/TileDestroyed01/Rock (2)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2424,7 +2459,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: TileDestroyed01/Rock (2)
+    path: TileDestroyed/TileDestroyed01/Rock (2)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2452,7 +2487,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: TileDestroyed01/Rock (2)
+    path: TileDestroyed/TileDestroyed01/Rock (2)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2480,7 +2515,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: TileDestroyed01/Rock (2)
+    path: TileDestroyed/TileDestroyed01/Rock (2)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2517,7 +2552,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.x
-    path: TileDestroyed01/Rock (2)
+    path: TileDestroyed/TileDestroyed01/Rock (2)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2554,7 +2589,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.y
-    path: TileDestroyed01/Rock (2)
+    path: TileDestroyed/TileDestroyed01/Rock (2)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2591,7 +2626,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.z
-    path: TileDestroyed01/Rock (2)
+    path: TileDestroyed/TileDestroyed01/Rock (2)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2628,7 +2663,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.x
-    path: TileDestroyed01/Rock (1)
+    path: TileDestroyed/TileDestroyed01/Rock (1)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2665,7 +2700,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.y
-    path: TileDestroyed01/Rock (1)
+    path: TileDestroyed/TileDestroyed01/Rock (1)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2702,7 +2737,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.z
-    path: TileDestroyed01/Rock (1)
+    path: TileDestroyed/TileDestroyed01/Rock (1)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2730,7 +2765,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: TileDestroyed01/Rock (1)
+    path: TileDestroyed/TileDestroyed01/Rock (1)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2758,7 +2793,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: TileDestroyed01/Rock (1)
+    path: TileDestroyed/TileDestroyed01/Rock (1)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2786,7 +2821,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: TileDestroyed01/Rock (1)
+    path: TileDestroyed/TileDestroyed01/Rock (1)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2823,7 +2858,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.x
-    path: TileDestroyed01/Rock (1)
+    path: TileDestroyed/TileDestroyed01/Rock (1)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2860,7 +2895,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.y
-    path: TileDestroyed01/Rock (1)
+    path: TileDestroyed/TileDestroyed01/Rock (1)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2897,7 +2932,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.z
-    path: TileDestroyed01/Rock (1)
+    path: TileDestroyed/TileDestroyed01/Rock (1)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2934,7 +2969,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.x
-    path: TileDestroyed01/Rock
+    path: TileDestroyed/TileDestroyed01/Rock
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2971,7 +3006,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.y
-    path: TileDestroyed01/Rock
+    path: TileDestroyed/TileDestroyed01/Rock
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3008,7 +3043,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.z
-    path: TileDestroyed01/Rock
+    path: TileDestroyed/TileDestroyed01/Rock
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3036,7 +3071,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: TileDestroyed01/Rock
+    path: TileDestroyed/TileDestroyed01/Rock
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3064,7 +3099,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: TileDestroyed01/Rock
+    path: TileDestroyed/TileDestroyed01/Rock
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3092,7 +3127,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: TileDestroyed01/Rock
+    path: TileDestroyed/TileDestroyed01/Rock
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3129,7 +3164,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.x
-    path: TileDestroyed02/Rock (3)
+    path: TileDestroyed/TileDestroyed02/Rock (3)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3166,7 +3201,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.y
-    path: TileDestroyed02/Rock (3)
+    path: TileDestroyed/TileDestroyed02/Rock (3)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3203,7 +3238,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.z
-    path: TileDestroyed02/Rock (3)
+    path: TileDestroyed/TileDestroyed02/Rock (3)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3240,7 +3275,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.x
-    path: TileDestroyed02/Rock (1)
+    path: TileDestroyed/TileDestroyed02/Rock (1)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3277,7 +3312,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.y
-    path: TileDestroyed02/Rock (1)
+    path: TileDestroyed/TileDestroyed02/Rock (1)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3314,7 +3349,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.z
-    path: TileDestroyed02/Rock (1)
+    path: TileDestroyed/TileDestroyed02/Rock (1)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3351,7 +3386,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.x
-    path: TileDestroyed02/Rock
+    path: TileDestroyed/TileDestroyed02/Rock
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3388,7 +3423,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.y
-    path: TileDestroyed02/Rock
+    path: TileDestroyed/TileDestroyed02/Rock
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3425,7 +3460,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.z
-    path: TileDestroyed02/Rock
+    path: TileDestroyed/TileDestroyed02/Rock
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3462,7 +3497,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.x
-    path: TileDestroyed02/Rock (2)
+    path: TileDestroyed/TileDestroyed02/Rock (2)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3499,7 +3534,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.y
-    path: TileDestroyed02/Rock (2)
+    path: TileDestroyed/TileDestroyed02/Rock (2)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3536,7 +3571,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.z
-    path: TileDestroyed02/Rock (2)
+    path: TileDestroyed/TileDestroyed02/Rock (2)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3564,7 +3599,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: TileDestroyed02/Rock (3)
+    path: TileDestroyed/TileDestroyed02/Rock (3)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3592,7 +3627,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: TileDestroyed02/Rock (3)
+    path: TileDestroyed/TileDestroyed02/Rock (3)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3620,7 +3655,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: TileDestroyed02/Rock (3)
+    path: TileDestroyed/TileDestroyed02/Rock (3)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3648,7 +3683,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: TileDestroyed02/Rock (1)
+    path: TileDestroyed/TileDestroyed02/Rock (1)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3676,7 +3711,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: TileDestroyed02/Rock (1)
+    path: TileDestroyed/TileDestroyed02/Rock (1)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3704,7 +3739,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: TileDestroyed02/Rock (1)
+    path: TileDestroyed/TileDestroyed02/Rock (1)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3732,7 +3767,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: TileDestroyed02/Rock
+    path: TileDestroyed/TileDestroyed02/Rock
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3760,7 +3795,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: TileDestroyed02/Rock
+    path: TileDestroyed/TileDestroyed02/Rock
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3788,7 +3823,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: TileDestroyed02/Rock
+    path: TileDestroyed/TileDestroyed02/Rock
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3816,7 +3851,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: TileDestroyed02/Rock (2)
+    path: TileDestroyed/TileDestroyed02/Rock (2)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3844,7 +3879,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: TileDestroyed02/Rock (2)
+    path: TileDestroyed/TileDestroyed02/Rock (2)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3872,7 +3907,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: TileDestroyed02/Rock (2)
+    path: TileDestroyed/TileDestroyed02/Rock (2)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3909,7 +3944,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.x
-    path: TileDestroyed02/Rock (3)
+    path: TileDestroyed/TileDestroyed02/Rock (3)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3946,7 +3981,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.y
-    path: TileDestroyed02/Rock (3)
+    path: TileDestroyed/TileDestroyed02/Rock (3)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3983,7 +4018,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.z
-    path: TileDestroyed02/Rock (3)
+    path: TileDestroyed/TileDestroyed02/Rock (3)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4020,7 +4055,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.x
-    path: TileDestroyed02/Rock (1)
+    path: TileDestroyed/TileDestroyed02/Rock (1)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4057,7 +4092,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.y
-    path: TileDestroyed02/Rock (1)
+    path: TileDestroyed/TileDestroyed02/Rock (1)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4094,7 +4129,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.z
-    path: TileDestroyed02/Rock (1)
+    path: TileDestroyed/TileDestroyed02/Rock (1)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4131,7 +4166,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.x
-    path: TileDestroyed02/Rock
+    path: TileDestroyed/TileDestroyed02/Rock
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4168,7 +4203,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.y
-    path: TileDestroyed02/Rock
+    path: TileDestroyed/TileDestroyed02/Rock
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4205,7 +4240,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.z
-    path: TileDestroyed02/Rock
+    path: TileDestroyed/TileDestroyed02/Rock
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4242,7 +4277,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.x
-    path: TileDestroyed02/Rock (2)
+    path: TileDestroyed/TileDestroyed02/Rock (2)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4279,7 +4314,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.y
-    path: TileDestroyed02/Rock (2)
+    path: TileDestroyed/TileDestroyed02/Rock (2)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4316,7 +4351,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.z
-    path: TileDestroyed02/Rock (2)
+    path: TileDestroyed/TileDestroyed02/Rock (2)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4353,7 +4388,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.x
-    path: TileDestroyed03/Rock (1)
+    path: TileDestroyed/TileDestroyed03/Rock (1)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4390,7 +4425,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.y
-    path: TileDestroyed03/Rock (1)
+    path: TileDestroyed/TileDestroyed03/Rock (1)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4427,7 +4462,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.z
-    path: TileDestroyed03/Rock (1)
+    path: TileDestroyed/TileDestroyed03/Rock (1)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4464,7 +4499,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.x
-    path: TileDestroyed03/Rock (2)
+    path: TileDestroyed/TileDestroyed03/Rock (2)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4501,7 +4536,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.y
-    path: TileDestroyed03/Rock (2)
+    path: TileDestroyed/TileDestroyed03/Rock (2)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4538,7 +4573,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.z
-    path: TileDestroyed03/Rock (2)
+    path: TileDestroyed/TileDestroyed03/Rock (2)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4575,7 +4610,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.x
-    path: TileDestroyed03/Rock (3)
+    path: TileDestroyed/TileDestroyed03/Rock (3)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4612,7 +4647,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.y
-    path: TileDestroyed03/Rock (3)
+    path: TileDestroyed/TileDestroyed03/Rock (3)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4649,7 +4684,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.z
-    path: TileDestroyed03/Rock (3)
+    path: TileDestroyed/TileDestroyed03/Rock (3)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4686,7 +4721,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.x
-    path: TileDestroyed03/Rock
+    path: TileDestroyed/TileDestroyed03/Rock
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4723,7 +4758,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.y
-    path: TileDestroyed03/Rock
+    path: TileDestroyed/TileDestroyed03/Rock
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4760,7 +4795,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.z
-    path: TileDestroyed03/Rock
+    path: TileDestroyed/TileDestroyed03/Rock
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4788,7 +4823,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: TileDestroyed03/Rock (1)
+    path: TileDestroyed/TileDestroyed03/Rock (1)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4816,7 +4851,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: TileDestroyed03/Rock (1)
+    path: TileDestroyed/TileDestroyed03/Rock (1)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4844,7 +4879,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: TileDestroyed03/Rock (1)
+    path: TileDestroyed/TileDestroyed03/Rock (1)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4872,7 +4907,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: TileDestroyed03/Rock (2)
+    path: TileDestroyed/TileDestroyed03/Rock (2)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4900,7 +4935,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: TileDestroyed03/Rock (2)
+    path: TileDestroyed/TileDestroyed03/Rock (2)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4928,7 +4963,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: TileDestroyed03/Rock (2)
+    path: TileDestroyed/TileDestroyed03/Rock (2)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4956,7 +4991,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: TileDestroyed03/Rock (3)
+    path: TileDestroyed/TileDestroyed03/Rock (3)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4984,7 +5019,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: TileDestroyed03/Rock (3)
+    path: TileDestroyed/TileDestroyed03/Rock (3)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5012,7 +5047,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: TileDestroyed03/Rock (3)
+    path: TileDestroyed/TileDestroyed03/Rock (3)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5040,7 +5075,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: TileDestroyed03/Rock
+    path: TileDestroyed/TileDestroyed03/Rock
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5068,7 +5103,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: TileDestroyed03/Rock
+    path: TileDestroyed/TileDestroyed03/Rock
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5096,7 +5131,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: TileDestroyed03/Rock
+    path: TileDestroyed/TileDestroyed03/Rock
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5133,7 +5168,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.x
-    path: TileDestroyed03/Rock (1)
+    path: TileDestroyed/TileDestroyed03/Rock (1)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5170,7 +5205,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.y
-    path: TileDestroyed03/Rock (1)
+    path: TileDestroyed/TileDestroyed03/Rock (1)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5207,7 +5242,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.z
-    path: TileDestroyed03/Rock (1)
+    path: TileDestroyed/TileDestroyed03/Rock (1)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5244,7 +5279,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.x
-    path: TileDestroyed03/Rock (2)
+    path: TileDestroyed/TileDestroyed03/Rock (2)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5281,7 +5316,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.y
-    path: TileDestroyed03/Rock (2)
+    path: TileDestroyed/TileDestroyed03/Rock (2)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5318,7 +5353,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.z
-    path: TileDestroyed03/Rock (2)
+    path: TileDestroyed/TileDestroyed03/Rock (2)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5355,7 +5390,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.x
-    path: TileDestroyed03/Rock (3)
+    path: TileDestroyed/TileDestroyed03/Rock (3)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5392,7 +5427,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.y
-    path: TileDestroyed03/Rock (3)
+    path: TileDestroyed/TileDestroyed03/Rock (3)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5429,7 +5464,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.z
-    path: TileDestroyed03/Rock (3)
+    path: TileDestroyed/TileDestroyed03/Rock (3)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5466,7 +5501,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.x
-    path: TileDestroyed03/Rock
+    path: TileDestroyed/TileDestroyed03/Rock
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5503,7 +5538,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.y
-    path: TileDestroyed03/Rock
+    path: TileDestroyed/TileDestroyed03/Rock
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5540,7 +5575,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.z
-    path: TileDestroyed03/Rock
+    path: TileDestroyed/TileDestroyed03/Rock
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5577,7 +5612,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.x
-    path: TileDestroyed04/Rock
+    path: TileDestroyed/TileDestroyed04/Rock
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5614,7 +5649,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.y
-    path: TileDestroyed04/Rock
+    path: TileDestroyed/TileDestroyed04/Rock
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5651,7 +5686,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.z
-    path: TileDestroyed04/Rock
+    path: TileDestroyed/TileDestroyed04/Rock
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5688,7 +5723,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.x
-    path: TileDestroyed04/Rock (3)
+    path: TileDestroyed/TileDestroyed04/Rock (3)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5725,7 +5760,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.y
-    path: TileDestroyed04/Rock (3)
+    path: TileDestroyed/TileDestroyed04/Rock (3)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5762,7 +5797,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.z
-    path: TileDestroyed04/Rock (3)
+    path: TileDestroyed/TileDestroyed04/Rock (3)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5799,7 +5834,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.x
-    path: TileDestroyed04/Rock (2)
+    path: TileDestroyed/TileDestroyed04/Rock (2)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5836,7 +5871,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.y
-    path: TileDestroyed04/Rock (2)
+    path: TileDestroyed/TileDestroyed04/Rock (2)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5873,7 +5908,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.z
-    path: TileDestroyed04/Rock (2)
+    path: TileDestroyed/TileDestroyed04/Rock (2)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5910,7 +5945,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.x
-    path: TileDestroyed04/Rock (1)
+    path: TileDestroyed/TileDestroyed04/Rock (1)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5947,7 +5982,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.y
-    path: TileDestroyed04/Rock (1)
+    path: TileDestroyed/TileDestroyed04/Rock (1)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5984,7 +6019,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.z
-    path: TileDestroyed04/Rock (1)
+    path: TileDestroyed/TileDestroyed04/Rock (1)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -6012,7 +6047,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: TileDestroyed04/Rock
+    path: TileDestroyed/TileDestroyed04/Rock
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -6040,7 +6075,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: TileDestroyed04/Rock
+    path: TileDestroyed/TileDestroyed04/Rock
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -6068,7 +6103,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: TileDestroyed04/Rock
+    path: TileDestroyed/TileDestroyed04/Rock
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -6096,7 +6131,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: TileDestroyed04/Rock (3)
+    path: TileDestroyed/TileDestroyed04/Rock (3)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -6124,7 +6159,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: TileDestroyed04/Rock (3)
+    path: TileDestroyed/TileDestroyed04/Rock (3)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -6152,7 +6187,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: TileDestroyed04/Rock (3)
+    path: TileDestroyed/TileDestroyed04/Rock (3)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -6180,7 +6215,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: TileDestroyed04/Rock (2)
+    path: TileDestroyed/TileDestroyed04/Rock (2)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -6208,7 +6243,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: TileDestroyed04/Rock (2)
+    path: TileDestroyed/TileDestroyed04/Rock (2)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -6236,7 +6271,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: TileDestroyed04/Rock (2)
+    path: TileDestroyed/TileDestroyed04/Rock (2)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -6264,7 +6299,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: TileDestroyed04/Rock (1)
+    path: TileDestroyed/TileDestroyed04/Rock (1)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -6292,7 +6327,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: TileDestroyed04/Rock (1)
+    path: TileDestroyed/TileDestroyed04/Rock (1)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -6320,7 +6355,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: TileDestroyed04/Rock (1)
+    path: TileDestroyed/TileDestroyed04/Rock (1)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -6357,7 +6392,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.x
-    path: TileDestroyed04/Rock
+    path: TileDestroyed/TileDestroyed04/Rock
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -6394,7 +6429,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.y
-    path: TileDestroyed04/Rock
+    path: TileDestroyed/TileDestroyed04/Rock
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -6431,7 +6466,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.z
-    path: TileDestroyed04/Rock
+    path: TileDestroyed/TileDestroyed04/Rock
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -6468,7 +6503,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.x
-    path: TileDestroyed04/Rock (3)
+    path: TileDestroyed/TileDestroyed04/Rock (3)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -6505,7 +6540,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.y
-    path: TileDestroyed04/Rock (3)
+    path: TileDestroyed/TileDestroyed04/Rock (3)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -6542,7 +6577,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.z
-    path: TileDestroyed04/Rock (3)
+    path: TileDestroyed/TileDestroyed04/Rock (3)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -6579,7 +6614,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.x
-    path: TileDestroyed04/Rock (2)
+    path: TileDestroyed/TileDestroyed04/Rock (2)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -6616,7 +6651,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.y
-    path: TileDestroyed04/Rock (2)
+    path: TileDestroyed/TileDestroyed04/Rock (2)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -6653,7 +6688,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.z
-    path: TileDestroyed04/Rock (2)
+    path: TileDestroyed/TileDestroyed04/Rock (2)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -6690,7 +6725,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.x
-    path: TileDestroyed04/Rock (1)
+    path: TileDestroyed/TileDestroyed04/Rock (1)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -6727,7 +6762,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.y
-    path: TileDestroyed04/Rock (1)
+    path: TileDestroyed/TileDestroyed04/Rock (1)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -6764,8 +6799,36 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.z
-    path: TileDestroyed04/Rock (1)
+    path: TileDestroyed/TileDestroyed04/Rock (1)
     classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 0.6666667
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: TileDestroyed
+    classID: 1
     script: {fileID: 0}
   m_EulerEditorCurves:
   - curve:
@@ -6775,7 +6838,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: TileDestroyed01/Rock (2)
+    path: TileDestroyed/TileDestroyed01/Rock (3)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -6785,7 +6848,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: TileDestroyed01/Rock (2)
+    path: TileDestroyed/TileDestroyed01/Rock (3)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -6795,7 +6858,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: TileDestroyed01/Rock (2)
+    path: TileDestroyed/TileDestroyed01/Rock (3)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -6805,7 +6868,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: TileDestroyed01/Rock (1)
+    path: TileDestroyed/TileDestroyed01/Rock (2)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -6815,7 +6878,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: TileDestroyed01/Rock (1)
+    path: TileDestroyed/TileDestroyed01/Rock (2)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -6825,7 +6888,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: TileDestroyed01/Rock (1)
+    path: TileDestroyed/TileDestroyed01/Rock (2)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -6835,7 +6898,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: TileDestroyed01/Rock (3)
+    path: TileDestroyed/TileDestroyed04/Rock
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -6845,7 +6908,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: TileDestroyed01/Rock (3)
+    path: TileDestroyed/TileDestroyed04/Rock
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -6855,27 +6918,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: TileDestroyed01/Rock (3)
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: TileDestroyed01/Rock
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: TileDestroyed01/Rock
+    path: TileDestroyed/TileDestroyed04/Rock
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -6885,17 +6928,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: TileDestroyed01/Rock
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: TileDestroyed02/Rock (2)
+    path: TileDestroyed/TileDestroyed01/Rock (1)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -6905,7 +6938,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: TileDestroyed02/Rock (2)
+    path: TileDestroyed/TileDestroyed01/Rock (1)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -6915,7 +6948,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: TileDestroyed02/Rock (2)
+    path: TileDestroyed/TileDestroyed01/Rock (1)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -6925,7 +6958,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: TileDestroyed02/Rock
+    path: TileDestroyed/TileDestroyed02/Rock
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -6935,7 +6968,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: TileDestroyed02/Rock
+    path: TileDestroyed/TileDestroyed02/Rock
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -6945,7 +6978,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: TileDestroyed02/Rock
+    path: TileDestroyed/TileDestroyed02/Rock
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -6955,7 +6988,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: TileDestroyed02/Rock (1)
+    path: TileDestroyed/TileDestroyed02/Rock (1)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -6965,7 +6998,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: TileDestroyed02/Rock (1)
+    path: TileDestroyed/TileDestroyed02/Rock (1)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -6975,27 +7008,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: TileDestroyed02/Rock (1)
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: TileDestroyed02/Rock (3)
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: TileDestroyed02/Rock (3)
+    path: TileDestroyed/TileDestroyed02/Rock (1)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -7005,17 +7018,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: TileDestroyed02/Rock (3)
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: TileDestroyed03/Rock (1)
+    path: TileDestroyed/TileDestroyed02/Rock (3)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -7025,7 +7028,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: TileDestroyed03/Rock (1)
+    path: TileDestroyed/TileDestroyed02/Rock (3)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -7035,7 +7038,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: TileDestroyed03/Rock (1)
+    path: TileDestroyed/TileDestroyed02/Rock (3)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -7045,7 +7048,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: TileDestroyed03/Rock (2)
+    path: TileDestroyed/TileDestroyed01/Rock
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -7055,7 +7058,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: TileDestroyed03/Rock (2)
+    path: TileDestroyed/TileDestroyed01/Rock
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -7065,7 +7068,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: TileDestroyed03/Rock (2)
+    path: TileDestroyed/TileDestroyed01/Rock
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -7075,7 +7078,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: TileDestroyed03/Rock
+    path: TileDestroyed/TileDestroyed02/Rock (2)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -7085,7 +7088,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: TileDestroyed03/Rock
+    path: TileDestroyed/TileDestroyed02/Rock (2)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -7095,27 +7098,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: TileDestroyed03/Rock
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: TileDestroyed03/Rock (3)
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: TileDestroyed03/Rock (3)
+    path: TileDestroyed/TileDestroyed02/Rock (2)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -7125,17 +7108,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: TileDestroyed03/Rock (3)
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: TileDestroyed04/Rock
+    path: TileDestroyed/TileDestroyed03/Rock (1)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -7145,7 +7118,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: TileDestroyed04/Rock
+    path: TileDestroyed/TileDestroyed03/Rock (1)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -7155,7 +7128,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: TileDestroyed04/Rock
+    path: TileDestroyed/TileDestroyed03/Rock (1)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -7165,7 +7138,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: TileDestroyed04/Rock (2)
+    path: TileDestroyed/TileDestroyed03/Rock (3)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -7175,7 +7148,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: TileDestroyed04/Rock (2)
+    path: TileDestroyed/TileDestroyed03/Rock (3)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -7185,7 +7158,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: TileDestroyed04/Rock (2)
+    path: TileDestroyed/TileDestroyed03/Rock (3)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -7195,7 +7168,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: TileDestroyed04/Rock (1)
+    path: TileDestroyed/TileDestroyed03/Rock (2)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -7205,7 +7178,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: TileDestroyed04/Rock (1)
+    path: TileDestroyed/TileDestroyed03/Rock (2)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -7215,27 +7188,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: TileDestroyed04/Rock (1)
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: TileDestroyed04/Rock (3)
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: TileDestroyed04/Rock (3)
+    path: TileDestroyed/TileDestroyed03/Rock (2)
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -7245,7 +7198,117 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: TileDestroyed04/Rock (3)
+    path: TileDestroyed/TileDestroyed03/Rock
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: TileDestroyed/TileDestroyed03/Rock
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: TileDestroyed/TileDestroyed03/Rock
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: TileDestroyed/TileDestroyed04/Rock (3)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: TileDestroyed/TileDestroyed04/Rock (3)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: TileDestroyed/TileDestroyed04/Rock (3)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: TileDestroyed/TileDestroyed04/Rock (2)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: TileDestroyed/TileDestroyed04/Rock (2)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: TileDestroyed/TileDestroyed04/Rock (2)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: TileDestroyed/TileDestroyed04/Rock (1)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: TileDestroyed/TileDestroyed04/Rock (1)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: TileDestroyed/TileDestroyed04/Rock (1)
     classID: 4
     script: {fileID: 0}
   m_HasGenericRootTransform: 0
